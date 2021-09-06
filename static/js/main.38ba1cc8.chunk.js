@@ -1,0 +1,2 @@
+(this.webpackJsonpmovie_app_2021_re=this.webpackJsonpmovie_app_2021_re||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var r=n(0),c=n.n(r),i=n(3),o=n.n(i),s=n(1);var p=function(){return Object(s.jsx)("div",{children:"Somethig"})};o.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(p,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.38ba1cc8.chunk.js.map
